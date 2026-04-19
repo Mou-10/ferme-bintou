@@ -1,4 +1,4 @@
----
+#.cpanel.yaml
 deployment:
   tasks:
     - export DEPLOYPATH=/home/votre_user/public_html/
