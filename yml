@@ -1,4 +1,4 @@
-#.cpanel.yaml
+#.index.yml
 deployment:
   tasks:
     - export DEPLOYPATH=home/ssfashion15/fermebintou.ssfashion.ml/yml $DEPLOYPATH
